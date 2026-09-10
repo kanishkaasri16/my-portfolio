@@ -10,7 +10,6 @@ body {
     color: #333;
 }
 
-/* Navigation */
 nav {
     background-color: #222;
     padding: 20px;
@@ -32,7 +31,6 @@ nav a:hover {
     color: #00bcd4;
 }
 
-/* Home */
 .home {
     background-color: #00bcd4;
     color: white;
@@ -60,14 +58,12 @@ section h2 {
     color: #222;
 }
 
-/* About */
 .about {
     background-color: white;
     text-align: center;
     line-height: 1.8;
 }
 
-/* Education */
 .education {
     text-align: center;
 }
@@ -86,7 +82,7 @@ section h2 {
     margin-bottom: 15px;
 }
 
-/* Skills */
+
 .skills {
     background-color: white;
     text-align: center;
@@ -105,7 +101,6 @@ section h2 {
     background-color: #00bcd4;
 }
 
-/* Contact */
 .contact {
     text-align: center;
 }
@@ -115,7 +110,7 @@ section h2 {
     font-size: 18px;
 }
 
-/* Footer */
+
 footer {
     background-color: #222;
     color: white;
